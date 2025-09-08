@@ -1,0 +1,6 @@
+# boxmot/configs/datasets/Custom.yaml
+benchmark:
+  name: Custom
+  split: train
+  classes:
+    tomato: 2 # Maps the name 'tomato' to class ID 2
